@@ -21,7 +21,7 @@ limitations under the License.
     <parent>
         <groupId>org.apache.falcon</groupId>
         <artifactId>falcon-main</artifactId>
-        <version>0.10.0.2.6.0.2-SNAPSHOT</version>
+        <version>0.10.0.2.6.0.59-2</version>
         <relativePath>../..</relativePath>
     </parent>
     <artifactId>falcon-sharelib-hive</artifactId>
