@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.apache.falcon</groupId>
         <artifactId>falcon-main</artifactId>
-        <version>0.10.0.2.6.5.0-SNAPSHOT</version>
+        <version>0.10.0.2.6.5.1102-5</version>
     </parent>
     <artifactId>falcon-acquisition</artifactId>
     <description>Apache Falcon Acquisition Module</description>
