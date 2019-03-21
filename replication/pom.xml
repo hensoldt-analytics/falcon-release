@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.apache.falcon</groupId>
         <artifactId>falcon-main</artifactId>
-        <version>0.10.0.2.6.2.0-SNAPSHOT</version>
+        <version>0.10.0.2.6.2.71-6</version>
     </parent>
     <artifactId>falcon-distcp-replication</artifactId>
     <description>Apache Falcon Distcp Replication Module</description>
